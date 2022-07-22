@@ -1633,7 +1633,6 @@ PRODUCT_PACKAGES += \
     libstagefright_omx.mtk \
     APUWareUtilsServer \
     APUWareXrpServer \
-    android.hardware.power-service-mediatek \
     android.hardware.camera.provider@2.6-impl-mediatek \
     android.hardware.gnss@2.1-impl-mediatek \
     hwcomposer.mt6785 \
@@ -1777,7 +1776,6 @@ PRODUCT_PACKAGES += \
     manifest_android.hardware.drm@1.3-service.widevine \
     oplus_appradio_device_manifest \
     oplus_radio_device_manifest \
-    power-mtk-default \
     vendor.mediatek.hardware.dplanner@2.0-service \
     vibrator-mtk-default \
     ueventd.mtk.rc \
